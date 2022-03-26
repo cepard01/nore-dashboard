@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "Nore-Dashboard",
   "version": "1.0.0",
   "dependencies": {
     "express": "^4.17.2"
-  },
+  }
 }
